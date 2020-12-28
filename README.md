@@ -32,3 +32,14 @@ Total execution time:
 Total lines count: 
 * Python: **1549**
 * Rust: 2418 (~1.6x)
+
+Rust is on average 13x "faster".
+
+Timings per day, seconds:
+![](output/timing.png)
+
+Log scale:
+![](output/timing-logscale.png)
+
+Timing ratio, Rust/Python:
+![](output/timing-ratio.png)
