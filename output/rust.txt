@@ -1,0 +1,134 @@
+--- Day01 ---
+Answer 1: 1564 * 456 = 713184
+Answer 2: 764 * 857 * 399 = 261244452
+Elapsed: 515.71µs
+
+--- Day02 ---
+Number of valid passwords: 548, 502
+Elapsed: 898.21µs
+
+--- Day03 ---
+Num trees 1: 242
+Num trees 2: 2265549792
+Elapsed: 126.19µs
+
+--- Day04 ---
+Valid passports 1: 264
+Valid passports 2: 224
+Elapsed: 1.82ms
+
+--- Day05 ---
+Max ID: 801, Seat: 597
+Elapsed: 213.53µs
+
+--- Day06 ---
+Answer 1: 6310, Answer 2: 3193
+Elapsed: 885.90µs
+
+--- Day07 ---
+Reachable: 370
+Contains: 29547
+Elapsed: 2.27ms
+
+--- Day08 ---
+Answer 1: 1782
+Answer 2: 797
+Elapsed: 299.44µs
+
+--- Day09 ---
+First non-sum: 85848519
+Sum range: 13414198
+Elapsed: 1.08ms
+
+--- Day10 ---
+Sum 1/3 diffs: 2414
+Number of arrangements: 21156911906816
+Elapsed: 211.64µs
+
+--- Day11 ---
+Answer 1: 2211
+Answer 2: 1995
+Elapsed: 99.31ms
+
+--- Day12 ---
+Answer 1: 508
+Answer 2: 30761
+Elapsed: 337.20µs
+
+--- Day13 ---
+Answer 1: 153
+Answer 2: 471793476184394
+Elapsed: 68.61µs
+
+--- Day14 ---
+Answer 1: 8471403462063
+Answer 2: 2667858637669
+Elapsed: 11.53ms
+
+--- Day15 ---
+Answer 1: 412
+Answer 2: 243
+Elapsed: 2.09s
+
+--- Day16 ---
+Answer 1: 25916
+Answer 2: 2564529489989
+Elapsed: 719.13µs
+
+--- Day17 ---
+Answer 1: 223
+Answer 2: 1884
+Elapsed: 716.18ms
+
+--- Day18 ---
+Answer 1: 45283905029161
+Answer 2: 216975281211165
+Elapsed: 805.66µs
+
+--- Day19 ---
+Answer 1: 192
+Answer 2: 296
+Elapsed: 61.87ms
+
+--- Day20 ---
+Answer 1: 63187742854073
+Answer 2: 2152
+Elapsed: 13.01ms
+
+--- Day21 ---
+Answer 1: 2374
+Answer 2: fbtqkzc,jbbsjh,cpttmnv,ccrbr,tdmqcl,vnjxjg,nlph,mzqjxq
+Elapsed: 6.09ms
+
+--- Day22 ---
+Answer 1: 31809
+Answer 2: 32835
+Elapsed: 89.22ms
+
+--- Day23 ---
+Answer 1: 24798635
+Step 999999
+Step 1999999
+Step 2999999
+Step 3999999
+Step 4999999
+Step 5999999
+Step 6999999
+Step 7999999
+Step 8999999
+Step 9999999
+Answer 2: 12757828710
+Elapsed: 4.01s
+
+--- Day24 ---
+Answer 1: 469
+Answer 2: 4353
+Elapsed: 152.66ms
+
+--- Day25 ---
+Answer: 9177528
+Elapsed: 106.33ms
+
+Total problems: 25, elapsed: 7.36s
+
+Problem timings (mus): [515, 898, 126, 1819, 213, 885, 2266, 299, 1084, 211, 99312, 337, 68, 11526, 2090064, 719, 716180, 805, 61865, 13007, 6090, 89218, 4008316, 152662, 106333]

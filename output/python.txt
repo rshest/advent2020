@@ -1,0 +1,137 @@
+--- Day01 ---
+Answer 1: 713184
+Answer 2: 261244452
+Elapsed: 0.002380s
+
+--- Day02 ---
+Answer 1: 548
+Answer 2: 502
+Elapsed: 0.002146s
+
+--- Day03 ---
+Answer 1: 242
+Answer 2: 2265549792
+Elapsed: 0.000444s
+
+--- Day04 ---
+Answer 1: 264
+Answer 2: 224
+Elapsed: 0.002783s
+
+--- Day05 ---
+Answer 1: 801
+Answer 2: 597
+Elapsed: 0.001450s
+
+--- Day06 ---
+Answer 1: 6310
+Answer 2: 3193
+Elapsed: 0.002588s
+
+--- Day07 ---
+Answer 1: 370
+Answer 2: 29547
+Elapsed: 0.002411s
+
+--- Day08 ---
+Answer 1: 1782
+Answer 2: 797
+Elapsed: 0.013731s
+
+--- Day09 ---
+Answer 1: 85848519
+Answer 2: 13414198
+Elapsed: 0.002308s
+
+--- Day10 ---
+Answer 1: 2414
+Answer 2: 21156911906816
+Elapsed: 0.000317s
+
+--- Day11 ---
+Answer 1: 2211
+Answer 2: 1995
+Elapsed: 5.660119s
+
+--- Day12 ---
+Answer 1: 508
+Answer 2: 30761
+Elapsed: 0.001212s
+
+--- Day13 ---
+Answer 1: 153
+Answer 2: 471793476184394
+Elapsed: 0.000231s
+
+--- Day14 ---
+Answer 1: 8471403462063
+Answer 2: 2667858637669
+Elapsed: 0.410731s
+
+--- Day15 ---
+Answer 1: 412
+Answer 2: 243
+Elapsed: 12.167086s
+
+--- Day16 ---
+Answer 1: 25916
+Answer 2: 2564529489989
+Elapsed: 0.026494s
+
+--- Day17 ---
+Answer 1: 223
+Answer 2: 1884
+Elapsed: 0.887390s
+
+--- Day18 ---
+Answer 1: 45283905029161
+Answer 2: 216975281211165
+Elapsed: 0.015704s
+
+--- Day19 ---
+Answer 1: 192
+Answer 2: 296
+Elapsed: 0.409151s
+
+--- Day20 ---
+Answer 1: 63187742854073
+Answer 2: 2152
+Elapsed: 0.154320s
+
+--- Day21 ---
+Answer 1: 2374
+Answer 2: fbtqkzc,jbbsjh,cpttmnv,ccrbr,tdmqcl,vnjxjg,nlph,mzqjxq
+Elapsed: 0.002636s
+
+--- Day22 ---
+Answer 1: 31809
+Answer 2: 32835
+Elapsed: 1.323291s
+
+--- Day23 ---
+Answer 1: 24798635
+Step 999999
+Step 1999999
+Step 2999999
+Step 3999999
+Step 4999999
+Step 5999999
+Step 6999999
+Step 7999999
+Step 8999999
+Step 9999999
+Answer 2: 12757828710
+Elapsed: 28.640866s
+
+--- Day24 ---
+Answer 1: 469
+Answer 2: 4353
+Elapsed: 3.089178s
+
+--- Day25 ---
+Answer 1: 9177528
+Elapsed: 4.440138s
+
+Total problems: 25, elapsed: 57.26s
+
+Problem timings (mus): [2380, 2146, 444, 2783, 1450, 2588, 2411, 13731, 2308, 317, 5660119, 1212, 231, 410731, 12167086, 26494, 887390, 15704, 409151, 154320, 2636, 1323291, 28640866, 3089178, 4440138]

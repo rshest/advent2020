@@ -1,0 +1,10 @@
+[package]
+name = "advent2020"
+version = "0.1.0"
+authors = ["Ruslan Shestopalyuk"]
+edition = "2018"
+
+[dependencies]
+regex = "1.4.2"
+lazy_static = "1.4.0"
+itertools = "0.10.0"
